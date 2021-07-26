@@ -84,7 +84,7 @@ namespace Game
             var count = 0;
             bool result = true;
             int winsLength = (variables.Count - 1) / 2;
-            if (computerMove == playerMove)
+            if (computerMove == playerMove - 1)
             {
                 Console.WriteLine("It's a draw!");
                 return;
@@ -101,13 +101,13 @@ namespace Game
             {
                 if(variables[computerMove] == item)
                 {
-                    Console.WriteLine("You lose!");
+                    Console.WriteLine("You win!");
                     result = false;
                 }
             }
             if(result == true)
             {
-                Console.WriteLine("You Win!");
+                Console.WriteLine("You lose!");
             }
         }
         static byte[] getKey()
