@@ -53,13 +53,7 @@ namespace Game
         }
         static string ValidationMove(List<string> variables)
         {
-            Console.WriteLine("Available moves:");
-            foreach(string item in variables)
-            {
-                Console.WriteLine($"{variables.IndexOf(item) + 1} - {item}");
-            }
-            Console.WriteLine("0 - exit");
-            Console.Write("Enter your move: ");
+            Menu(variables);
             string move = Console.ReadLine();
             if (move == "0")
                 return "0";
@@ -69,7 +63,7 @@ namespace Game
                 if(int.Parse(move) > variables.Count)
                 {
                     Console.WriteLine("Wrong move, please be more attentively!");
-                    Console.Write("Enter your move: ");
+                    Menu(variables);
                     result = false;
                     move = Console.ReadLine();
                 }
@@ -134,6 +128,16 @@ namespace Game
                 var bhash = hmac.ComputeHash(bstr);
                 return BitConverter.ToString(bhash).Replace("-", string.Empty).ToUpper();
             }
+        }
+        static void Menu (List<string> variables)
+        {
+            Console.WriteLine("Available moves:");
+            foreach (string item in variables)
+            {
+                Console.WriteLine($"{variables.IndexOf(item) + 1} - {item}");
+            }
+            Console.WriteLine("0 - exit");
+            Console.Write("Enter your move: ");
         }
     }
 }
