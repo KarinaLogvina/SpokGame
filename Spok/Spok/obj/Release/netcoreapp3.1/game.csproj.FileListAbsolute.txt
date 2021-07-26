@@ -1,0 +1,12 @@
+/Users/karinalogvina/projects/Spok/Spok/bin/Release/netcoreapp3.1/game.deps.json
+/Users/karinalogvina/projects/Spok/Spok/bin/Release/netcoreapp3.1/game.runtimeconfig.json
+/Users/karinalogvina/projects/Spok/Spok/bin/Release/netcoreapp3.1/game.runtimeconfig.dev.json
+/Users/karinalogvina/projects/Spok/Spok/bin/Release/netcoreapp3.1/game.dll
+/Users/karinalogvina/projects/Spok/Spok/bin/Release/netcoreapp3.1/game.pdb
+/Users/karinalogvina/projects/Spok/Spok/obj/Release/netcoreapp3.1/game.csproj.AssemblyReference.cache
+/Users/karinalogvina/projects/Spok/Spok/obj/Release/netcoreapp3.1/game.AssemblyInfoInputs.cache
+/Users/karinalogvina/projects/Spok/Spok/obj/Release/netcoreapp3.1/game.AssemblyInfo.cs
+/Users/karinalogvina/projects/Spok/Spok/obj/Release/netcoreapp3.1/game.csproj.CoreCompileInputs.cache
+/Users/karinalogvina/projects/Spok/Spok/obj/Release/netcoreapp3.1/game.dll
+/Users/karinalogvina/projects/Spok/Spok/obj/Release/netcoreapp3.1/game.pdb
+/Users/karinalogvina/projects/Spok/Spok/obj/Release/netcoreapp3.1/game.genruntimeconfig.cache

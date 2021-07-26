@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/karinalogvina/projects/Spok/Spok/Spok.csproj": {}
+  },
+  "projects": {
+    "/Users/karinalogvina/projects/Spok/Spok/Spok.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/karinalogvina/projects/Spok/Spok/Spok.csproj",
+        "projectName": "Spok",
+        "projectPath": "/Users/karinalogvina/projects/Spok/Spok/Spok.csproj",
+        "packagesPath": "/Users/karinalogvina/.nuget/packages/",
+        "outputPath": "/Users/karinalogvina/projects/Spok/Spok/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/karinalogvina/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

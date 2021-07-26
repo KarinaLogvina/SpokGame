@@ -1,0 +1,12 @@
+/Users/karinalogvina/projects/Spok/Spok/bin/Debug/netcoreapp3.1/Spok.deps.json
+/Users/karinalogvina/projects/Spok/Spok/bin/Debug/netcoreapp3.1/Spok.runtimeconfig.json
+/Users/karinalogvina/projects/Spok/Spok/bin/Debug/netcoreapp3.1/Spok.runtimeconfig.dev.json
+/Users/karinalogvina/projects/Spok/Spok/bin/Debug/netcoreapp3.1/Spok.dll
+/Users/karinalogvina/projects/Spok/Spok/bin/Debug/netcoreapp3.1/Spok.pdb
+/Users/karinalogvina/projects/Spok/Spok/obj/Debug/netcoreapp3.1/Spok.csproj.AssemblyReference.cache
+/Users/karinalogvina/projects/Spok/Spok/obj/Debug/netcoreapp3.1/Spok.AssemblyInfoInputs.cache
+/Users/karinalogvina/projects/Spok/Spok/obj/Debug/netcoreapp3.1/Spok.AssemblyInfo.cs
+/Users/karinalogvina/projects/Spok/Spok/obj/Debug/netcoreapp3.1/Spok.csproj.CoreCompileInputs.cache
+/Users/karinalogvina/projects/Spok/Spok/obj/Debug/netcoreapp3.1/Spok.dll
+/Users/karinalogvina/projects/Spok/Spok/obj/Debug/netcoreapp3.1/Spok.pdb
+/Users/karinalogvina/projects/Spok/Spok/obj/Debug/netcoreapp3.1/Spok.genruntimeconfig.cache

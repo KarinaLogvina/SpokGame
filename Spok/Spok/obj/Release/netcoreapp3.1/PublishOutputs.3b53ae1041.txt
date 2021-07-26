@@ -1,0 +1,4 @@
+/Users/karinalogvina/Desktop/game/game.dll
+/Users/karinalogvina/Desktop/game/game.deps.json
+/Users/karinalogvina/Desktop/game/game.runtimeconfig.json
+/Users/karinalogvina/Desktop/game/game.pdb

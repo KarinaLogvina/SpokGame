@@ -1,0 +1,4 @@
+/Users/karinalogvina/projects/Spok/Spok/bin/Release/netcoreapp3.1/publish/game.dll
+/Users/karinalogvina/projects/Spok/Spok/bin/Release/netcoreapp3.1/publish/game.deps.json
+/Users/karinalogvina/projects/Spok/Spok/bin/Release/netcoreapp3.1/publish/game.runtimeconfig.json
+/Users/karinalogvina/projects/Spok/Spok/bin/Release/netcoreapp3.1/publish/game.pdb
